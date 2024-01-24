@@ -15,8 +15,6 @@
 |                 | []()                                                |               []()                |
 |         7kyu        | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java)                                                |               [Solution.java](https://github.com/uurkrtl/codewars_java_solutions/blob/master/7kyu/Vowel%20Count/Solution.java)                |
 |         7kyu        | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/java)                                                |               [Solution.java](https://github.com/uurkrtl/codewars_java_solutions/blob/master/7kyu/Disemvowel%20Trolls/Solution.java)                |
-<<<<<<< HEAD
-|         7kyu        | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/java)                                                |               [Solution.java]()                |
-|         7kyu        | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/java)                                                |               [Solution.java]()                |
-=======
->>>>>>> a6c683b06085da1e6dc3c12ccc220e57500c2639
+|         7kyu        | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/java)                                                |               [Solution.java](https://github.com/uurkrtl/codewars_java_solutions/blob/master/7kyu/Square%20Every%20Digit/Solution.java)                |
+|         7kyu        | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/java)                                                |               [Solution.java](https://github.com/uurkrtl/codewars_java_solutions/blob/master/7kyu/Highest%20and%20Lowest/Solution.java)                |
+
