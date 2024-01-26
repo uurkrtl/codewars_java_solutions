@@ -21,4 +21,4 @@
 |         7kyu        | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java)                                                |               [Solution.java]()                |
 |         7kyu        | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/java)                                                |               [Solution.java]()                |
 |                 | []()                                                |               []()                |
-|         6kyu        | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)                                                |               [Solution.java]()                |
+|         6kyu        | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)                                                |               [Solution.java](https://github.com/uurkrtl/codewars_java_solutions/blob/master/6kyu/Convert%20string%20to%20camel%20case/Solution.java)                |
