@@ -20,3 +20,5 @@
 |         7kyu        | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/java)                                                |               [Solution.java](https://github.com/uurkrtl/codewars_java_solutions/blob/master/7kyu/Highest%20and%20Lowest/Solution.java)                |
 |         7kyu        | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java)                                                |               [Solution.java]()                |
 |         7kyu        | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/java)                                                |               [Solution.java]()                |
+|                 | []()                                                |               []()                |
+|         6kyu        | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/java)                                                |               [Solution.java]()                |
